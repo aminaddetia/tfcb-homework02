@@ -11,7 +11,7 @@ The files in this repository are organized into 3 folders:
 | Source_Code | contains 4 python programs | [Source Code](https://github.com/aminaddetia/tfcb-homework02/tree/main/source_code) |
 
 The [Images](https://github.com/aminaddetia/tfcb-homework02/tree/main/images) folder has four images of insects:
-- Acanthomyrmex ferox (https://github.com/aminaddetia/tfcb-homework02/blob/main/images/Acanthomyrmex_ferox.jpg)
-- Camponotus darwinii (https://github.com/aminaddetia/tfcb-homework02/blob/main/images/Camponotus_darwinii.jpg)
-- Cataglyphis fortis (https://github.com/aminaddetia/tfcb-homework02/blob/main/images/Cataglyphis_fortis.jpg)
-- Rhytidoponera metallica (https://github.com/aminaddetia/tfcb-homework02/blob/main/images/Rhytidoponera_metallica.jpg)
+- Acanthomyrmex ferox ![Acanthomyrmex ferox](https://github.com/aminaddetia/tfcb-homework02/blob/main/images/Acanthomyrmex_ferox.jpg)
+- Camponotus darwinii ![Camponotus darwinii](https://github.com/aminaddetia/tfcb-homework02/blob/main/images/Camponotus_darwinii.jpg)
+- Cataglyphis fortis ![Cataglyphis fortis](https://github.com/aminaddetia/tfcb-homework02/blob/main/images/Cataglyphis_fortis.jpg)
+- Rhytidoponera metallica ![Rhytidoponera metallica](https://github.com/aminaddetia/tfcb-homework02/blob/main/images/Rhytidoponera_metallica.jpg)
